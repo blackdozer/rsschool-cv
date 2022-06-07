@@ -18,9 +18,9 @@ HTML, CSS, SASS, BootStrap, GIT
 Engeneer degree in light industry. Moscow University of Design and Technology
 
 ***LANGUAGES:***
-Russian - native.
-English - B2. 
-Lithuanian - A1.
+* Russian - native.
+* English - B2. 
+* Lithuanian - A1.
 I have a good experience in negotiations with European partners.
 
 ***HOBBIES:***
