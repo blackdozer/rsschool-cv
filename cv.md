@@ -26,4 +26,7 @@ I have a good experience in negotiations with European partners.
 ***HOBBIES:***
 Crossfit, motocycles, travel.
 
+***WORK PERMIT***
+* European Union
+
 Have a nice day =)
