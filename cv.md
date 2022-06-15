@@ -14,7 +14,7 @@ I'am Alex, and I've made a solution to change my profession. Now I'am managing a
 ***SKILLS:***
 HTML, CSS, SASS, BootStrap, GIT
 
-***EDICATION:***
+***EDUCATION:***
 Engeneer degree in light industry. Moscow University of Design and Technology
 
 ***LANGUAGES:***
