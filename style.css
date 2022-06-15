@@ -1,0 +1,66 @@
+* {
+    font-family: "Roboto", sans-serif;
+  }
+body {
+  background-color: white;
+}
+
+.cv {
+  text-align: center;
+  color:#667
+}
+.name {
+  text-align: center;
+  color:#667
+}
+  
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  width: 190px;
+ }
+
+nav {
+text-align: center;
+}
+nav li {
+  font-size: 30px;
+  text-align: center;
+  display: inline;
+  margin-right: 40px;
+  font-style: none;
+  
+}
+nav li a {
+  text-decoration: none;
+  color: #667;
+
+}
+a:hover {
+  color:black
+  
+}
+
+.hdline {
+  font-size: 30px;
+  color:#667
+}
+
+.foo>div {
+  display: inline-block;
+  margin-left: 270px;
+  margin-bottom: 50px;
+  
+
+
+}
+.rollscopes {
+  margin-top: 0;
+  width: 200px;
+
+}
+.created {
+  text-align: center;
+}
